@@ -10,3 +10,7 @@ for more options.
 #define SPLIT_LED_STATE_ENABLE
 
 #define SPLIT_MODS_ENABLE
+
+#define ENCODER_DIRECTION_FLIP
+
+#define ENCODER_RESOLUTIONS { 4, 1 }
